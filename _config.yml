@@ -21,7 +21,8 @@ author: Some Person
 
 navbar-links:
   Resume / CV: "/assets/David_Resume.pdf"
-  Portfolio: "portfolio"
+  Portfolio: 
+    - Lilith: "Lilith"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
