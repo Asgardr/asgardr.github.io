@@ -26,9 +26,9 @@ I was able to work in many parts of the game, but my main work was in:
   - **AI**
     - **Boss**: Boss AI usign Unreal's Behaviour Trees. Four differents attacks depending on weigths and distance to the player, attack patterns changes with the boss health.
     
-    ![](assets/Boss_figth2.gif)
+      ![](assets/Boss_figth2.gif)
 
-    ![](assets/Boss_BT.png)
+      ![](assets/Boss_BT.png)
     
     - **Cleaner**: Enemies that dedicate to rid the floor of corruption. Implemented detection of nearest corruption with line of sigth algorithms.
     
