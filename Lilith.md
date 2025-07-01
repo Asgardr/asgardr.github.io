@@ -1,8 +1,9 @@
-
+---
 layout: page
 title: Lilith: Rise of the Fallen
 subtitle: A Bullet Heaven where you'll try to survive while you corrupt the map
 cover-img: "/assets/Lilith_wallpaper.png"
+---
 
 ### Summary
 
