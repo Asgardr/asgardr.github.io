@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is David Lugo-Viña, a programmer and gamer from Spain! I have been playing videogames since I was little, and they ended up being the main focus of my life, both professionally and personally. I have spent the last +10 years creating and learning about them!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
 
-What else do you need?
+- Degree in Video Game Desing and Development: Rey Juan Carlos University.
+- Master's Degree in Video Game Programming: Complutense University of Madrid.
 
-### My story
+### Language
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Spanish (Native)
+- English (C1 Advanced, Cambridge)
