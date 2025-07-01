@@ -16,8 +16,9 @@ Lilith takes inspiration in games like Vampire Survivors, Death Must Die and 20 
 I was able to work in many parts of the game, but my main work was in:
 
   - Corruption System
-    - Map Corruption
-    - Corruption Effects
+    - Map Corruption: Using a Hexagonal Grid to determine which parts of the level are corrupted.
+    - Corruption Effects: Applied to the enemies while on top of the corruption
+      [](assets/Lilith_corruption.gif)
   - Waves System
     - Waves Creation Tool
     - Waves Spawn
