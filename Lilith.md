@@ -25,13 +25,14 @@ I was able to work in many parts of the game, but my main work was in:
       ![](assets/Wave_tool.png)
   - **AI**
     - **Boss**: Boss AI usign Unreal's Behaviour Trees. Four differents attacks depending on weigths and distance to the player, attack patterns changes with the boss health.
-    ![](assets/Boss_figth.gif) ![](assets/Boss_BT.png)
+    ![](assets/Boss_figth.gif) 
     - **Cleaner**: Enemies that dedicate to rid the floor of corruption. Implemented detection of nearest corruption with line of sigth algorithms.
     ![](assets/Cleaner.gif)
     - **Charm**: Enemies can be affected by a charm effect that makes them attack their allies and work for a little time to the player side. Implemented closest enemy detection and other mechanic for it to work properly
     ![](assets/Charm.gif)
   - **Player Abilities**
     - **Sloth**
+    - ![](assets/Boss_BT.png)
     - **Lust**
   - **Logging**
   - **UI**
