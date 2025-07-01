@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  Resume / CV: ""
+  Resume / CV: "/assets/David_Resume.pdf"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
