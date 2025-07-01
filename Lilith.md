@@ -22,7 +22,7 @@ I was able to work in many parts of the game, but my main work was in:
   - **Waves System**
     - **Waves Spawn**: Spawn of waves in a timer, with each waves having a cost to be spawn, seconds added or substracted to said timer and conditions to be spawn dependant of other variables like Enemies in Play or Time Played
     - **Waves Creation Tool:** Tool for desingers to create custom waves of enemies with different conditions to spawn, types of enemies and all that was necessary on our wave system 
-      [](assets/Wave_tool.png)
+      ![](assets/Wave_tool.png)
   - AI
     - Boss
     - Cleaner
